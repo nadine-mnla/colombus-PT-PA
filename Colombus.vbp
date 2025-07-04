@@ -1,0 +1,8 @@
+Type=Exe
+Form=frmMain.frm
+Form=frmGuest.frm
+Class=modRoomManagement.cls
+Module=modDatabase; modDatabase.bas
+Startup="frmMain"
+Reference=*\G{00000205-0000-0010-8000-00AA006D2EA4}#2.5#0#..\msado15.dll#ADODB
+Name="Colombus"
