@@ -1,6 +1,6 @@
 # COLOMBUS Hotel Management System
 
-A legacy VB6 + SQL Server based hotel room management system originally developed in 2010. This project manages guest data, room availability, and displays occupancy rates.
+A legacy VB6 + SQL Server based hotel room management system originally developed in 2009. This project manages guest data, room availability, and displays occupancy rates.
 
 ## Modules & Forms
 
